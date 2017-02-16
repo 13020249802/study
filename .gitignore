@@ -1,0 +1,9 @@
+.settings/*
+.classpath
+target/
+.project
+MonitoringPatform/.setting/
+MonitoringPatform/.settings/*
+MonitoringPatform/.classpath
+MonitoringPatform/target/
+MonitoringPatform/.project

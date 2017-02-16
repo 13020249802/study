@@ -1,0 +1,61 @@
+/*menu icon*/
+.menu-icon-01{
+	background:url(${rootURL}resources/images/i01.png) no-repeat center center;
+}
+.menu-icon-02{
+	background:url(${rootURL}resources/images/i02.png) no-repeat center center;
+}
+.menu-icon-03{
+	background:url(${rootURL}resources/images/i03.png) no-repeat center center;
+}
+.menu-icon-04{
+	background:url(${rootURL}resources/images/i04.png) no-repeat center center;
+}
+.menu-icon-05{
+	background:url(${rootURL}resources/images/i05.png) no-repeat center center;
+}
+.menu-icon-06{
+	background:url(${rootURL}resources/images/i06.png) no-repeat center center;
+}
+.menu-icon-07{
+	background:url(${rootURL}resources/images/i07.png) no-repeat center center;
+}
+.menu-icon-08{
+	background:url(${rootURL}resources/images/i08.png) no-repeat center center;
+}
+.menu-icon-09{
+	background:url(${rootURL}resources/images/i09.png) no-repeat center center;
+}
+
+/*child menu icon*/
+
+.menu-icon-add{
+	padding:2px 9px;
+	background:url(${rootURL}resources/images/tabicons.png) no-repeat;
+	background-position: -19px 0px;
+}
+.menu-icon-nav{
+	padding:2px 9px;
+	background:url(${rootURL}resources/images/tabicons.png) no-repeat;
+	background-position: -100px -18px;
+}
+.menu-icon-users{
+	padding:2px 9px;
+	background:url(${rootURL}resources/images/tabicons.png) no-repeat;
+	background-position: -100px -480px;
+}
+.menu-icon-role{
+	padding:2px 9px;
+	background:url(${rootURL}resources/images/tabicons.png) no-repeat;
+	background-position: -360px -200px;
+}
+.menu-icon-set{
+	padding:2px 9px;
+	background:url(${rootURL}resources/images/tabicons.png) no-repeat;
+	background-position: -380px -200px;
+}
+.menu-icon-log{
+	padding:2px 9px;
+	background:url(${rootURL}resources/images/tabicons.png) no-repeat;
+	background-position: -380px -80px;
+}

@@ -1,0 +1,102 @@
+
+*{
+	font-size:12px;
+}
+body {
+    font-family:verdana,helvetica,arial,sans-serif;
+    padding:20px;
+    font-size:12px;
+    margin:0;
+}
+h2 {
+    font-size:18px;
+    font-weight:bold;
+    margin:0;
+    margin-bottom:15px;
+}
+.demo-info{
+	padding:0 0 12px 0;
+}
+.demo-tip{
+	display:none;
+}
+
+.topImg{
+	background:url(/shiro/resources/images/topbg.gif);
+	background-size:100% 100%;
+}
+.bottomImg{
+	background:url(/shiro/resources/images/topbg.gif);
+	background-size:100% 100%;
+}
+.form-tr{
+	font-size: 16px;
+	margin:auto;
+}
+form table.form-tr{
+	color: #777;
+    font-size: 12px;
+    font-weight: bold;
+}
+.queryForm{
+	color: #777;
+    font-size: 12px;
+    font-weight: bold;
+}
+label.searchTitle{
+	color: #777;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+
+
+.eastContent .eastTitle, .eastContent .eastTitle div{
+	font-size: 20px;
+	color: #777;
+	font-weight: bold;
+	margin:0;
+	/* height:50px; 
+	line-height:30px; */
+}
+.eastContent .eastInfo{
+	font-size: 20px;
+	color: #777;
+	font-weight: bold;
+	margin:0;
+	/* height:30px; 
+	line-height:30px; */
+}
+.logoDiv{
+	background:url(/shiro/resources/images/logo.jpg);
+	background-size:100% 100%;
+}
+.titleBarAction:hover{cursor: pointer;}
+#shotmenu{
+	background-color:#e0ecff;
+}
+#tabs .tabs-header{
+	background-color:#e0ecff;
+}
+.topright{
+	
+}
+.txtMulti{
+	border-radius: 5px;
+}
+/* #eastContent1,#eastContent2,#eastContent3,
+#eastContent4,#eastContent5,#eastContent6
+#eastContent7{
+	display: none;
+} */
+/* .menuTitle{
+	margin:0;
+	line-height:20px;
+	background-color: #f2f2f2;
+}
+.menuTitle:hover{
+	margin:0;
+	line-height:20px;
+	background-color: #0081c2;
+} */
+
